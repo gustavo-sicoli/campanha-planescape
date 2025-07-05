@@ -1,0 +1,187 @@
+{
+  "main": {
+    "id": "0a5b207b3bb1ff9f",
+    "type": "split",
+    "children": [
+      {
+        "id": "94de08c5ecc77c2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f1a1c51b5d51035",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "11ff5b620000783e",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a3d87a9f5313879",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5914bfe0bf55c983",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23f3f0976d75b5b1",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a3a4bd04e1d39997",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "6292cbec84e9c4ab",
+    "type": "split",
+    "children": [
+      {
+        "id": "42d8cb6acc139e53",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d8622a868354fc1c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "aa570b91041b5895",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "393dca4019b9e7d8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "a729e2a55d9f9259",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "9f1a1c51b5d51035",
+  "lastOpenFiles": [
+    "Personagens.md",
+    "README.md",
+    "personagens/Orlanth de Vorthas.md",
+    "personagens/Keldor, o Esqueleto.md",
+    "imagens/Aldebaran Penabranca.jpeg",
+    "personagens/Barão Aldebaran Penabranca.md",
+    "imagens/Orlanth de Vorthas.jpeg",
+    "personagens/Eradin Thalven.md",
+    "imagens/Eradin Thalven.jpeg",
+    "personagens/Junon.md",
+    "imagens/Junon - Armadura.jpg",
+    "imagens",
+    "personagens"
+  ]
+}
